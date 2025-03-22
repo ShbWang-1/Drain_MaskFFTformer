@@ -2,7 +2,7 @@
 
 <p align="center">
 <img src= "./img/1.jpg" width="80%">
-<img src= "./img/2.jpg" width="80%">
+<img src= "./img/2.jpg" width="40%">
 
 This repository provides the official PyTorch implementation of the following paper:
 
