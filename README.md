@@ -1,8 +1,8 @@
 # Effcient Frequence Domain-based Transformer for High-Quality Image Deblurring - Official Pytorch Implementation
 
 <p align="center">
-<img src= "./img/1.jeg" width="80%">
-<img src= "./img/2.jeg" width="80%">
+<img src= "./img/1.jpg" width="80%">
+<img src= "./img/2.jpg" width="80%">
 
 This repository provides the official PyTorch implementation of the following paper:
 
